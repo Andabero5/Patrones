@@ -16,7 +16,7 @@ Es un patrón de diseño creacional que permite producir familias de objetos rel
 
 *Builder* es un patrón de diseño creacional que permite construir objetos complejos paso a paso. El patrón permite producir diferentes tipos y representaciones de un objeto utilizando el mismo código de construcción.
 
-**Para mas informacion de click** [aquí](Builder)
+**Para mas informacion de click** [aquí](Builder/_pychache_)
 
 ## **Singleton**
 
