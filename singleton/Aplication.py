@@ -1,11 +1,11 @@
 from Singleton import *
 
 
-class EjemploSingleton:
-    def obtener_nombre(self):
+class Aplication():
+    def getName(self):
         return "Singleton"
 
-    def operacion(self):
+    def operation(self):
 
         print("Data Base")
         user1 = Singleton.get_instance()

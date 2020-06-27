@@ -1,11 +1,10 @@
-from Aplication import *
+from Aplication import Aplication
 
 
-class main():
-    a = EjemploSingleton()
-    a.obtener_nombre()
-    a.operacion()
+def main():
+    a = Aplication()
+    a.getName()
+    a.operation()
 
-
-if __name__ == main:
-    main()
+if __name__ == "__main__":
+    main
